@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "a603a9514e294de5",
+    "type": "split",
+    "children": [
+      {
+        "id": "032fed87142692b1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hello World.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6478a2d26a5f604c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c608c451e5dcfd08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8142840c8b475096",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ace489bbed1a5ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b61f30f5e639b4ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5fd0b85b2be2f18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aff436157a321166",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hello World.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "032fed87142692b1",
+  "lastOpenFiles": [
+    "Hello World.md",
+    "Projects/This will not create a separate folder in hugo.md",
+    "Milestone.md"
+  ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://brandonkrugerexample.co.za/</loc>
+    <lastmod>2022-06-03T13:14:13+02:00</lastmod>
+  </url><url>
+    <loc>http://brandonkrugerexample.co.za/posts/hello-world/</loc>
+    <lastmod>2022-06-03T13:14:13+02:00</lastmod>
+  </url><url>
+    <loc>http://brandonkrugerexample.co.za/posts/</loc>
+    <lastmod>2022-06-03T13:14:13+02:00</lastmod>
+  </url><url>
+    <loc>http://brandonkrugerexample.co.za/posts/projects/this-will-not-create-a-separate-folder-in-hugo/</loc>
+    <lastmod>2022-06-03T13:14:13+02:00</lastmod>
+  </url><url>
+    <loc>http://brandonkrugerexample.co.za/categories/</loc>
+  </url><url>
+    <loc>http://brandonkrugerexample.co.za/tags/</loc>
+  </url>
+</urlset>

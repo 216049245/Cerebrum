@@ -1,0 +1,33 @@
+baseURL = 'http://brandonkrugerexample.co.za/'
+languageCode = 'en-za'
+title = 'Cerebrum'
+theme = "cactus"
+
+[params]
+
+  colortheme = "classic" # dark, light, white, or classic
+  mainSection = "posts"
+  tocInline = true	
+  mainSectionTitle = "Posts"
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/216049245"
+
+[[params.social]]
+  name = "email"
+  link = "brandonkruger@protonmail.com" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/blkruger/"
+[[params.social]]
+  name = "Blog"
+  link = "https://www.brandonkruger.com/"
+
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
